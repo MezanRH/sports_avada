@@ -1,0 +1,239 @@
+
+/* ===================
+hader section start
+=================== */
+.hader {
+    background-image: url(../images/hader\ img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0%;
+}
+.navbar img{
+    height: 50px;
+}
+.navbar .collapse ul{
+    margin-left: 70px;
+}
+.navbar .collapse ul li{
+    margin: 0 20px;
+}
+.navbar .collapse .nav-item a{
+    color: #FFFFFF;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.navbar .collapse .nav-item a:hover{
+    color: #FF9600;
+}
+.navbar form .btn{
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #FFFFFF;
+    background: #FF9600;
+    border: none;
+    font-weight: 700;
+    font-size: 18px;
+}
+.hader .banar-part {
+    margin-top: 210px;
+    text-align: center;
+}
+.hader .banar-part h2{
+    color: #FFFFFF;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+}
+.hader .banar-part .button{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 55px;
+    margin-bottom: 156px;
+}
+.hader .banar-part .button .left{
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-right: 20px;
+    background-color: #FF9600;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 0;
+}
+.hader .banar-part .button .right{
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 0;
+    border: none;
+}
+
+/* ===================
+hader section end
+=================== */
+
+/* ===================
+Excitement section start
+=================== */
+.excitement{
+    margin-top: 100px;
+    position: relative;
+}
+.excitement .left h4 {
+    font-family: 'Yellowtail', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #14B9F1;
+}
+.excitement .left h4 {
+    font-family: 'Yellowtail', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #14B9F1;
+}
+.excitement .left h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    color: #222222;
+}
+.excitement .left p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #222222;
+    margin-top: 50px;
+}
+.excitement .left .items{
+    margin-left: -30px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+.excitement .left ul{
+    list-style: none;
+}
+.excitement .left ul li{
+    padding: 15px 0;
+}
+.excitement .left .btn{
+    padding: 15px 40px;
+    background: #FF9600;
+    color: #FFFFFF;
+}
+.excitement .right .right{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+/* ===================
+Excitement section end
+=================== */
+
+/* ===================
+counter section start
+=================== */
+.counter {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 200px;
+}
+.counter h4{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+.counter p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+.counter .counter-img{
+    background-image: url(../images/counter\ img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ===================
+counter section end
+=================== */
+
+/* ===================
+counter section end
+=================== */
+.sports {
+    background: #0C3543;
+    padding-top: 100px;
+}
+.sports .left h4 {
+    font-family: 'Yellowtail', cursive;
+    font-weight: 400;
+    font-size: 30px;
+    color: #FF9600;
+}
+.sports .left h3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    color: #FFFFFF;
+}
+.sports .right p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 50px;
+} 
+.galary  {
+    background: #0C3543;
+} 
+.galary .items {
+    margin-top: 60px;
+}  
+.galary .items .contant{
+    color: #FFFFFF;
+    text-align: center;
+    background: #0F4152;
+    padding: 25px 0;
+}   
+.galary .bg-img h4{
+    font-family: 'Arizonia', cursive;
+    font-weight: 400;
+    font-size: 160px;
+    color: #FFFFFF;
+    text-align: center;
+} 
+/* ===================
+counter section end
+=================== */ 
+
+/* ===================
+activities section start
+=================== */ 
+.activities {
+    background: #FF9600;
+    text-align: center;
+}
+.activities .title .img{
+    padding-top: 110px;
+    padding-bottom: 16px;
+}
+.activities .title h3{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 54px;
+    color: #FFFFFF;
+}
+.activities .title h4{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 50px 0;
+}
+.activities .title .button{
+    
+}
+/* ===================
+activities section end
+=================== */
